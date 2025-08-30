@@ -8,6 +8,7 @@
 
 
 <h2>Languages and Utilities Used</h2>
+PowerShell
 
 - <b>Oracle VM VirtualBox</b> 
 - <b></b>
