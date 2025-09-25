@@ -20,26 +20,39 @@ PowerShell
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+1.	First go to the VirtualBox website: <br/>
 <img src="https://i.imgur.com/pJDMeoW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+2.	Click the blue download button:  <br/>
 <img src="https://imgur.com/qAKeAG2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://imgur.com/oucT970.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3.	Choose what operating system you use: <br/>
+<img src="https://imgur.com/FfOTzf9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://imgur.com/z35zK1t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+4.	Download VirtualBox  :  <br/>
+<img src="https://imgur.com/w76J3zU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://imgur.com/o9bPC6W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+5.	Optional: Check hashes of the file. The integrity of it:  <br/>
+ a.	Scroll down on the download VirtualBox page until you see “File Checksums” <br/>
+ b.	Click on the SHA256 checksums
+<img src="https://imgur.com/ygs5wjH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<img src="https://imgur.com/vElUWkD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ c.	At the right hand side, find the one you downloaded earlier based on the OS of the system. 
+ I downloaded windows. 
+ <br />
+ d.	Next hit the windows button on your keyboard and type PowerShell, open it.
+<br />
+<img src="https://imgur.com/JOXB9jw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 Sanitization complete:  <br/>
 <img src="https://imgur.com/qIigQUv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
