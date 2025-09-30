@@ -53,12 +53,16 @@ PowerShell
 <br />
 <br />
 
-Sanitization complete:  <br/>
-<img src="https://imgur.com/qIigQUv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+e. Next type certutil -hashfile  (the downloaded file location) sha256 <br/>
+<img src="https://imgur.com/RBfCVim.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://imgur.com/YSsPncp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+     i.	Compare the hashes with the one on step 5C and if the values are the same then you know the file wasn’t tampered with. <br/>
+     ii.	It’s important to check the integrity of the files you download.
+
+6.	Click the VirtualBox installer and follow instructions.
+7.	All done.
+
 </p>
 
 <!--
