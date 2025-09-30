@@ -8,14 +8,14 @@
 
 
 <h2>Languages and Utilities Used</h2>
-PowerShell
-
 - <b>Oracle VM VirtualBox</b> 
-- <b></b>
+
+-<b> PowerShell</b>
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (24H2)
+ -<b>Windows 11</b> (24H2)
 
 <h2>Program walk-through:</h2>
 
@@ -47,7 +47,9 @@ PowerShell
  c.	At the right hand side, find the one you downloaded earlier based on the OS of the system. 
  I downloaded windows. 
  <br />
+ 
  d.	Next hit the windows button on your keyboard and type PowerShell, open it.
+<br />
 <br />
 <img src="https://imgur.com/JOXB9jw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
