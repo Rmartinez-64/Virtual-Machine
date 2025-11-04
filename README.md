@@ -3,6 +3,9 @@
 
 
 <h2>Description</h2>
+This is a step-by-step guide in how to install a virtual Machine.
+A Virtual Machine (VM) is a software-based simulation of a physical computer system that runs an operating system (OS) and applications just like a traditional physical machine. VMs are created and managed by a hypervisor, which allocates physical resources such as CPU, memory, and storage to the virtualized environment.
+
 
 <br />
 
@@ -63,7 +66,7 @@ e. Next type certutil -hashfile  (the downloaded file location) sha256 <br/>
      ii.	It’s important to check the integrity of the files you download.
 
 6.	Click the VirtualBox installer and follow instructions.
-7. After installing and following all the instructions. Open VirtualBox and click the blue spikey box.
+7. After installing and following all the instructions. Open VirtualBox and click the blue spikey ball.
 <img src="https://imgur.com/ICulKSr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 8.This will open up a window in how to create a new VM. 
