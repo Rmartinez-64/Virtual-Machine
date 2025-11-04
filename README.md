@@ -63,7 +63,28 @@ e. Next type certutil -hashfile  (the downloaded file location) sha256 <br/>
      ii.	It’s important to check the integrity of the files you download.
 
 6.	Click the VirtualBox installer and follow instructions.
-7.	All done.
+7. After installing and following all the instructions. Open VirtualBox and click the blue spikey box.
+<img src="https://imgur.com/ICulKSr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+8.This will open up a window in how to create a new VM. 
+<img src="https://imgur.com/xnr3EAN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+9. Name your VM machine, pick where its installed, and choose any ISO images for the operating system. For example, windows 10/11, Ubuntu, Linux Mint, etc. Moreover, to find an ISO image. Go to a vendors website: Ubuntu, Linux Mint, or Microsoft to name a few. For your information, the ISO image will be free and not cost anything and we can check the  integrity of these images by using step:5.
+    
+10. Now we can specify virtual hardware. Depending on the specs of your physical machine will determine performance in a virtual one.
+ <img src="https://imgur.com/MIsU1eW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ 11. Specify virtual hard disk.  Choose the disk size of the machine. I recommend 25-50GB for a test machine. 
+  <img src="https://imgur.com/COv65Du.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  12. Click the finish button.
+  13. Double click your virtual machine to power it on or click the green arrow.
+  <img src="https://imgur.com/VYaXqaa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  14.Done: you created your first virtual machine!
+  
+  <img src="https://imgur.com/mq6Eujk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 </p>
 
